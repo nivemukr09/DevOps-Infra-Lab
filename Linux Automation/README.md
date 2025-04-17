@@ -68,7 +68,7 @@ chown -R anonymous:no-team
 #create fixed archive 
 tar -czf /tmp/fixed-archive.tar.gz .
 
----
+```
 
 ⚙️ Activate Command
 To standardize execution, the system uses an alias:
