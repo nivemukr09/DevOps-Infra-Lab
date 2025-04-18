@@ -22,7 +22,7 @@ CI/CD experiments
 ## 🛠️ Author  
 Maintained by  
 <p align="center">
-  <img src="assets/logo.png" alt="Logo" width="150"/>
+  <img src="/assets/logo.png" alt="Logo" width="150"/>
 </p>
 <p align="center"><em>DevOps Engineer • Nivedha Muthukrishnan</em></p>
 
