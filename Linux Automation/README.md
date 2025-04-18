@@ -104,6 +104,4 @@ A new compressed archive with updated permissions and ownership:
 
 ## 🛠️ Author  
 Maintained by  
-<p align="center">
-  <img src="/assets/logo.png" alt="Logo" width="350"/>
-</p>
+<img src="/assets/logo.png" alt="Logo" width="350"/>
