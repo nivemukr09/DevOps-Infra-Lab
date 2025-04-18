@@ -76,8 +76,9 @@ For debugging, this pattern is great: you can inspect the container’s log outp
 For production, you’ll typically want the container to exit when done (so Jobs complete). You would remove the tail -f /dev/null and rely on the CronJob’s built‑in retry behavior (restartPolicy: OnFailure) to retry on errors, or simply log to a central system instead.
 
 
-🛠️ Author
-Maintained by
-![Logo](assets/logo.png)
+## 🛠️ Author  
+Maintained by  
+<p align="center">
+  <img src="assets/logo.png" alt="Logo" width="150"/>
+</p>
 <p align="center"><em>DevOps Engineer • Nivedha Muthukrishnan</em></p>
-

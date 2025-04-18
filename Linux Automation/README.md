@@ -101,7 +101,10 @@ A new compressed archive with updated permissions and ownership:
 
 /tmp/fixed-archive.tar.gz
 
-🛠️ Author
-Maintained by
-![Logo](assets/logo.png)
+
+## 🛠️ Author  
+Maintained by  
+<p align="center">
+  <img src="assets/logo.png" alt="Logo" width="150"/>
+</p>
 <p align="center"><em>DevOps Engineer • Nivedha Muthukrishnan</em></p>
