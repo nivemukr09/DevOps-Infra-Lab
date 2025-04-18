@@ -107,4 +107,3 @@ Maintained by
 <p align="center">
   <img src="/assets/logo.png" alt="Logo" width="350"/>
 </p>
-<p align="center"><em>DevOps Engineer • Nivedha Muthukrishnan</em></p>
