@@ -101,3 +101,7 @@ A new compressed archive with updated permissions and ownership:
 
 /tmp/fixed-archive.tar.gz
 
+🛠️ Author
+Maintained by
+![Logo](assets/logo.png)
+<p align="center"><em>DevOps Engineer • Nivedha Muthukrishnan</em></p>
